@@ -10,7 +10,7 @@ apt-get update
 apt-get install -y build-essential
 apt-get install -y software-properties-common
 apt-get update
-
+apt-get install -y procps g++ 
 ## Other essentials
 apt-get install -y wget git zlib1g-dev unzip
 
